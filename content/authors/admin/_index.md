@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: John Kennedy - NFC for Job Hunting
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''John Kennedy''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: John
+last_name: Kennedy
 
 # Status emoji
 status:
@@ -17,35 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professional Job Hunter
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Code With Me
+    url: https://codewith-me.com
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nfc@skebi69.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://linkedin.com/in/ennoil
+  - icon: brands/youtube
+    url: https://youtube.com
+    label: NFC Virtual Business Card
+
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John has worked in IT for over 25 years. In this time he has had several short, fixed term contracts, equating to over 20 jobs. This has given him a broad range of experience and tips for helping with the Job Hunting process and ways to make himself stand out. 
+The NFC Business Card started as an actual business card (a resume business card) that John used which got him 2 jobs while in the UK. A couple of years ago, John heard about NFC Digital Business Cards and was hooked. The videos linked on this page will help you get started with this card. The apps linked can be used to read and write NFC cards.
+There are uses outside of Business cards. John uses NFC tags to set timers for various things around the house (like a timer tag on his washing machine so washed clothes don't remain in the washer for days and days).
